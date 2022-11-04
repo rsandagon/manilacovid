@@ -1,7 +1,7 @@
 # PH Quarantine Checkpont Map
 
-![alt text](map1.jpg "Philippine Quarantine Map")
-![alt text](map2.jpg "Covid19 Q&A")
+![alt text](manilacovid-manilacovid/map1.jpg "Philippine Quarantine Map")
+![alt text](manilacovid-manilacovid/map2.jpg "Covid19 Q&A")
 
 ## Getting Started
 
