@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.proxy": {
+        "enable": true, //set it true to enable the feature.
+        "baseUri": "/api", //from where you want to proxy. 
+        "proxyUri": "http://159.65.136.34:8000" //the actual url.
+    },
+    "liveServer.settings.ignoreFiles" : [
+            ".vscode/**",
+            "**/*.scss",
+            "**/*.sass"
+    ]
+
+}
